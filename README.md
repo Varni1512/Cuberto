@@ -33,8 +33,8 @@ This project is a **React.js clone** of the Cuberto website, focusing on clean U
 
 ## 🔥 Installation & Running Locally  
 ```bash
-git clone https://github.com/Varni1512/Cuberto
-cd Cuberto
+git clone https://github.com/Varni1512/Cuberto-Clone
+cd Cuberto-Clone
 npm install
 npm start
 ```

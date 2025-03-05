@@ -21,15 +21,15 @@ This project is a **React.js clone** of the Cuberto website, focusing on clean U
 ## 🏆 Challenges & Solutions  
 ### 1️⃣ **Smooth Animations**  
 **Issue**: Replicating Cuberto’s fluid animations was difficult.  
-✅ **Solution**: Used **Framer Motion** and **GSAP** for optimized, lag-free transitions.  
+**Solution**: Used **Framer Motion** and **GSAP** for optimized, lag-free transitions.  
 
 ### 2️⃣ **Video Autoplay & Performance**  
 **Issue**: The background video was causing performance drops.  
-✅ **Solution**: Used **lazy loading** and **optimized video compression**.  
+**Solution**: Used **lazy loading** and **optimized video compression**.  
 
 ### 3️⃣ **Hover & Cursor Effects**  
 **Issue**: Creating an interactive cursor that adapts to different sections.  
-✅ **Solution**: Implemented a **custom cursor using React state & event listeners**.  
+**Solution**: Implemented a **custom cursor using React state & event listeners**.  
 
 ## 🔥 Installation & Running Locally  
 ```bash

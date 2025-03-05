@@ -1,0 +1,21 @@
+#herovideo {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: 50% 0;
+}
+
+#herovideo video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: inherit;
+}
+
+@media (max-width: 500px) {
+    #herovideo {
+        margin-top: 10vw;
+        height: 60vh;
+    }
+
+}
